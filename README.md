@@ -14,5 +14,5 @@ Personal CV website with downloadable resumes in Spanish and English.
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/TU-USUARIO
-- Email: ledesma.navarro.antonio13@gmail.com
+- LinkedIn: https://www.linkedin.com/in/antonio-david-navarro-ledesma-34426b274/
+- Email: ledesma.navarro.antonio12@gmail.com
